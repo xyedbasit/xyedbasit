@@ -1,12 +1,12 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Ali Nadeem👋<a href="#"></h1>
+    <h1> Hi there, I'm Syed Basit ALi<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/Muhammad-Daniyal-1"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;MERN+Stack+Developer;Javascript+Developer;Frontend+Developer;ReactJs+Developer;NodeJs+Developer;React+Native+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/xyedbasit/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;MERN+Stack+Developer;Javascript+Developer;Frontend+Developer;ReactJs+Developer;NodeJs+Developer;React+Native+Developer&center=true&width=500&height=50"></a>
 
 ### I'm a MERN Stack Developer and Researcher!
-- 🔭 I’m currently working as Software Engineer @Codeviz Technologies.
+- 🔭 I’m currently working as Software Engineer @Dyamasstech.
 - 🌱 I’m currently expanding my knowledge in Nextjs.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
